@@ -6,6 +6,8 @@ There are two tables in the database which are as follows:
 1.	Prediwalisales - Contains Pre-Diwali sales data
 2.	Postdiwalisales - Contains Post-Diwali sales data 
 
+Since the size of the dataset was exceeding 25MB, it is broken down into smaller segments of 5MB rar files.
+
 About the dataset:
 The dataset has 187678 records and 11 fields. The description about each of the fields is given below:
 
